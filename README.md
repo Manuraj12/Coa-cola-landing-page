@@ -1,2 +1,2 @@
-# Coa-cola-landing-page
+# Coca-cola-landing-page
 Coco Cola product Landing Page
